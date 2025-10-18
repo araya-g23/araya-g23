@@ -1,5 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I'm Eyob Gebrekidan
+🎓 3rd-Year Honours software Devloper Student @ DKIT 
 
+
+## 🧰 Tech Stack
+**Languages:** Java · JavaScript · Python · C++ · SQL · Kotlin 
+**Frameworks:** React · Laravel 
+**Databases:** MySQL · MongoDB
+
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=araya-g23)
 <!--
 **araya-g23/araya-g23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
