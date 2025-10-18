@@ -13,6 +13,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
 
 **Frameworks:**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
